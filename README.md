@@ -22,5 +22,10 @@ to write the text message, the button is there to send the message in the future
 - [ ] Illustrées des images ou photographiques que les utilisateurs de l'application de chat peuvent facilement insérer dans leurs conversations au lieu de texte.(Autocollants )
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
 
+### App Walkthough GIF
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+
+<img src="YOUR_GIF_URL_HERE" width=250><br>
+
 
 
