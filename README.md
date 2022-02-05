@@ -25,8 +25,11 @@ to write the text message, the button is there to send the message in the future
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
+#### Login Activity
 <img src="Login.png" width=250><br>
+#### Send message Activity
 <img src="Send message.png" width=250><br>
+#### Search Activity
 <img src="Send message copy.png" width=250><br>
 
 
